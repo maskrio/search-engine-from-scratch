@@ -1,4 +1,4 @@
-# TBI Search Engine
+# Search Engine From Scratch
 
 ## Feature Highlights
 
